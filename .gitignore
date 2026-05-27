@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+mobile/node_modules/
+
+# Local tooling caches / config dirs
+.mobile/
+.expo/
+.claude/
+
+# Nested git/backups inside the project (never commit)
+mobile/.git*/
